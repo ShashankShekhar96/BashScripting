@@ -1,0 +1,3 @@
+Hello!! My name is Shashank
+This is tutorial for Bash Scripting
+This is a text file
